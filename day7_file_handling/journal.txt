@@ -1,0 +1,3 @@
+Name : Shridhanya, Goal : Learn Python
+Name : Dhanya, Goal : Learn Oops Concept
+Name : Vinaya, Goal : Learn cloud computing
