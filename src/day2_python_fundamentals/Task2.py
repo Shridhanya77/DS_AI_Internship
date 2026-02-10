@@ -1,7 +1,5 @@
-total_bill = float(input("Enter total bill amount: "))
-people = int(input("Enter number of people: "))
-share = total_bill / people
-print(f"Total Bill: {total_bill}. Each person pays: {share}")
-print(type(total_bill))
-print(type(people))
-print(type(share))
+total_bill=float(input("Enter the total bill amount : "))
+total_num=int(input("Enter the total no of people : "))
+
+each_bill=total_bill/total_num
+print(f"Total bill is {total_bill}. Each person should pay {each_bill:.2f}  ")
