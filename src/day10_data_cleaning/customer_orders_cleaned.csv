@@ -1,0 +1,10 @@
+CustomerID,Name,Age,City,OrderAmount,PaymentMethod
+101,Amit,25.0, Bangalore,2500.0,UPI
+102,Sara,28.0,Mumbai ,1800.0,Card
+103,John,30.0,Delhi,2200.0,Cash
+104,,22.0,,2200.0,Card
+105,Priya,28.0,Bangalore,3000.0,
+106,David,28.0,Chennai,2200.0,UPI
+107,Meena,35.0,Mumbai,1500.0,Cash
+108,Ali,28.0,Delhi,2700.0,Card
+109,Riya,26.0, Bangalore ,2200.0,UPI
